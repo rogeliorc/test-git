@@ -7,4 +7,4 @@ Repositorio prueba
 Ejercicios de git
 
 
-![Log](https://github.com/rogeliorc/test-git/blob/master/imagen/network.PNG)
+![network](https://github.com/rogeliorc/test-git/blob/master/imagen/network.png)
